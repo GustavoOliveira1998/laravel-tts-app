@@ -25,5 +25,5 @@ Recursos: múltiplos idiomas, player com autoplay, **botão para download** do �
 ## 🚀 Como rodar
 1) Clone e entre no projeto
 ```bash
-git clone <URL_DO_SEU_REPO>
-cd <PASTA_DO_PROJETO>
+git clone <https://github.com/GustavoOliveira1998>
+cd <laravel-tss-app>
